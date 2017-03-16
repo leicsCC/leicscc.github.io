@@ -2,7 +2,7 @@
 title: Home
 ---
 
-> **BETA** &#124; These guidelines will evolve as our services grow and develop.
+>**BETA** &#124; These guidelines will evolve as our services grow and develop.
 
 
 This is the **Digital Services Manual**.
