@@ -3,7 +3,6 @@ title: Home
 ---
 
 > **BETA** | These guidelines will evolve as our services grow and develop.
-
 This is the **Digital Services Manual**.
 
 Use these resources to design and build digital services.
