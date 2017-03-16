@@ -1,0 +1,74 @@
+# ----
+# Site
+
+title: Digital Services Manual
+url: "https://dst.leicestershire.gov.uk"
+baseurl:
+google_analytics_key:
+show_full_navigation: true
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /favicon-32x32.png
+description: Product documentation template for Jekyll.
+author:
+  name:
+  email:
+  twitter: # twitter username without the @ symbol
+social:
+  name: Digital Services Manual
+  links:
+    - https://dst.leicestershire.gov.uk
+
+# -----
+# Build
+
+permalink: pretty
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - cms-guide.md
+  - LICENCE
+
+collections:
+  docs:
+    title: Documentation
+    permalink: /:path/
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: "docs"
+    values:
+      seo:
+        type: Article
+      _comments:
+        category: Group navigation links with this field
+        order: Used to sort links in the navigation
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      _comments:
+        type: Marks the impact of this release
+
+# -----------
+# CloudCannon
+
+types:
+  - minor
+  - major
