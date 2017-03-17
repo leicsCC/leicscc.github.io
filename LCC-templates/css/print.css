@@ -1,0 +1,15 @@
+body {
+	padding-top: 0;
+}
+.header-global,
+.nav-site,
+.button-top,
+.footer-global {
+	display: none;
+}
+.hidden {
+	display: block;
+}
+/*a[href^=http]:after {
+	content:" (" attr(href) ") ";
+}*/
