@@ -1,10 +1,10 @@
 ---
-title: About DST
+title: About
 category: Digital Services
 order: 1
 ---
 
-We’re designing and building digital products, platforms and content to help the council make the most of digital technology as an enabler for better, smarter and more efficient services.
+In the Digital Services Team we’re designing and building digital products, platforms and content to help the council make the most of digital technology as an enabler for better, smarter and more efficient services.
 
 To do this we:
 -   start with user needs to make sure we’re solving real problems
