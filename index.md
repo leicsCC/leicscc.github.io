@@ -4,9 +4,6 @@ title: Home
 
 >**BETA** &#124; These guidelines will evolve as our services grow and develop.
 
-
-### Digital Services Manual
-
 Use these resources to design and build digital services.
 
 Following these guides makes things quicker and easier for our users by using tried and tested design patterns and content styles.
