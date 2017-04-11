@@ -1,6 +1,6 @@
 ---
 title: Search
-category: CMS guide
+category: User guide
 order: 3
 ---
 
