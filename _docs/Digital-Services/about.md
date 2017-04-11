@@ -1,6 +1,6 @@
 ---
 title: About DST
-category:
+category: Digital Services
 order: 1
 ---
 
