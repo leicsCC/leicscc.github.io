@@ -2,7 +2,7 @@
 ---
 title: About
 category: About
-order: 0
+order: 1
 ---
 
 We’re designing and building digital products, platforms and content to help the council make the most of digital technology as an enabler for better, smarter and more efficient services.
