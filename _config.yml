@@ -9,12 +9,9 @@ show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /favicon-32x32.png
-description: Product documentation template for Jekyll.
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
-social:
+description: Digital Services Team
+author: KJ
+  email: kurtis.johnson@leics.gov.uk
   name: Digital Services Manual
   links:
     - https://dst.leicestershire.gov.uk
