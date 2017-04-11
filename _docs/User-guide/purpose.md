@@ -1,6 +1,6 @@
 ---
 title: Purpose
-category: CMS guide
+category: User guide
 order: 1
 ---
 
