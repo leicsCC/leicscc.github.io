@@ -1,6 +1,6 @@
 ---
 title: About DST
-category: docs
+category:
 order: 1
 ---
 
