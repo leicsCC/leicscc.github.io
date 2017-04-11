@@ -1,6 +1,6 @@
 ---
 title: Governance
-category: CMS guide
+category: User guide
 order: 2
 ---
 ### Key principles
