@@ -1,8 +1,5 @@
  ---
-title: Testing forms
--category: User guide
-+category: Forms
- order: 1
+# Testing forms
  ---
  Instructions for setting up a form so that others around the council can test it out.
  
