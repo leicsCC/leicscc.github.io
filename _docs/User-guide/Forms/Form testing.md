@@ -1,6 +1,8 @@
- ---
-# Testing forms
- ---
+---
+title: Testing forms
+category: Forms
+order: 1
+---
  Instructions for setting up a form so that others around the council can test it out.
  
  For testing purposes make sure the process and form are in the forms category 'Ext Test ICT'. Publish the process when ready. This category is set up for testing so that the public won't see the form but internal users will.
